@@ -1,9 +1,9 @@
 export const robots =[
     {
         id:1,
-        name:"Ninza robo",
-        username:'ninza1',
-        email: 'ninzarobo@gmail.com'
+        name:"Ninja Robo",
+        username:'ninja1',
+        email: 'ninjarobo@gmail.com'
     }, 
     {
         id: 2,
@@ -11,13 +11,13 @@ export const robots =[
         username:'ranger',
         email: 'ranger@gmail.com'
     },
-     {
+    {
         id:3,
-        name:"Rykendo",
+        name:"Ryukendo",
         username:'ryukondo1',
-        email: 'ninzarobo@gmail.com'
+        email: 'ninjarobo@gmail.com'
     },
-     {
+    {
         id:4,
         name:"Light Yagami",
         username:'kira',
@@ -28,10 +28,17 @@ export const robots =[
         name:"Shingami",
         username:'shingami',
         email: 'shingam@gmail.com'
-    }, {
+    }, 
+    {
         id:6,
         name:"silver surfer",
         username:'silverNinza',
         email: 'silversurfero@gmail.com'
+    },
+    {
+        id:7,
+        name:"Alpha robot",
+        username:'alpha',
+        email: 'alpha@gmail.com'
     },
 ]
